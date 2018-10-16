@@ -1,5 +1,3 @@
-
-# Python program to conver 
 # altered DNA to protein 
   
 inputfile ="DNA_sequence_original.txt" 
