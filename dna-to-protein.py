@@ -9,6 +9,7 @@ seq = seq.replace("\r", "")
   
 def translate(seq): 
       
+    
     table = { 
         'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M', 
         'ACA':'T', 'ACC':'T', 'ACG':'T', 'ACT':'T', 
